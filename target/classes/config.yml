@@ -1,9 +1,0 @@
-tps:
-  1m: '&a20.0'
-  5m: '&a20.0'
-  15m: '&a20.0'
-
-messages:
-  noperm: '&cIm sorry, but you do not have permission to perform this command. Please contact the server adminstrators if you belive that this in error.'
-
-#PUT THE CORRECT COLOURS!!!!
