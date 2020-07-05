@@ -1,0 +1,9 @@
+name: TpsSpoofer
+version: 1.0
+main: lol.maltest.tpsspoofer.TpsSpoofer
+authors: [maltest]
+description: tps spoofer cause im bored and need stuff for my github ok thanks lol
+website: maltest.lol
+commands:
+  tps:
+    description: Shows the server tps!
